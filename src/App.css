@@ -1,0 +1,11 @@
+:root {
+  --primaryColor: #fff;
+  --secondaryColor: rgba(0,0,0,0.3);
+  --tertiaryColor: #8bc34a;
+}
+
+body{
+  overflow-x: hidden;
+  background-color: var(--tertiaryColor);
+}
+
